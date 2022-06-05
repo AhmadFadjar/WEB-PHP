@@ -10,4 +10,4 @@ Nothing to highlight, All about PHP and some CodeIgniter Framework, feel free to
 
 ## Installation
 
-Just download a zip from this Repository and BOOM, and now in your computer
+Just download a zip from this Repository and BOOM, and now is in your computer
