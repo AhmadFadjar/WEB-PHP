@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* Body */
+.form_pasien{
+    background-color: grey;
+}
+.form_psn{
+    background-color: grey;
+    color: white;
+    font-weight: 10%;
+}
