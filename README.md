@@ -1,7 +1,5 @@
 # WEB-PHP
 
-# TASK PHP
-
 ## Introduction
 
 Hey, let me start my journey through PHP
